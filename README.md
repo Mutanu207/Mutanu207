@@ -1,8 +1,8 @@
 # Hey There, I'm Mutanu 👋
 
-I am a Computer Science student building AI-powered full-stack applications with the PERN stack, focusing on AI integration and system design.
+A Computer Science student building AI-powered full-stack applications with the PERN stack, focusing on AI integration and system design.
 
-I'm currently building AI-powered full-stack applications and learning how to integrate AI systems into production-ready products.
+I'm currently working toward becoming an AI-powered Full-Stack Developer by graduation, combining modern web development with practical AI systems that solve real-world problems.
 
 ---
 
@@ -25,26 +25,6 @@ AI Study Buddy helps students learn from their own notes, slides, and textbooks 
 * Topic mastery tracking
 * Performance analytics and progress monitoring
 * Authentication and personalized study history
-
-### Technologies
-
-* PostgreSQL
-* Express.js
-* React
-* Node.js
-
-### Currently Learning Through This Project
-
-* Full-stack application architecture
-* Authentication and authorization
-* Database design
-* API development
-* RAG systems
-* Vector search
-* LLM integration
-* Documentation and Git workflows
-* PERN & AI System Design
-* AI Evaluation
 
 ---
 
