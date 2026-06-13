@@ -28,7 +28,7 @@ AI Study Buddy helps students learn from their own notes, slides, and textbooks 
 
 ---
 
-## 🗺️ Project Roadmap (Target: May 14, 2027)
+## 🗺️ Project Roadmap 
 
 After AI Study Buddy, I plan to build:
 
