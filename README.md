@@ -104,7 +104,7 @@ To becomae a great AI full stack dev and build production-ready AI-powered full-
 
 ## 📬 Connect
 Email:mutanumbuvi8@gmail.com
-LinkedIn: Coming Soon
+LinkedIn: www.linkedin.com/in/mutanu-mbuvi-583b26274
 
 ---
 
