@@ -50,12 +50,16 @@ A learning-focused code review system combining static analysis and AI feedback.
 
 ### Full-Stack Development
 - PostgreSQL
+- Next js
+- Nest js
+- Typecript
 - Express.js
 - React
 - Node.js
 - Authentication & Security
 
 ### AI Integration
+- Python Fast API
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Multimodal AI
